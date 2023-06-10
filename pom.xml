@@ -40,6 +40,26 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>io.soabase.record-builder</groupId>
+			<artifactId>record-builder-validator</artifactId>
+			<version>35</version>
+		</dependency>
+		<dependency>
+			<groupId>io.soabase.record-builder</groupId>
+			<artifactId>record-builder-processor</artifactId>
+			<version>35</version>
+		</dependency>
+		<dependency>
+			<groupId>io.soabase.record-builder</groupId>
+			<artifactId>record-builder-core</artifactId>
+			<version>35</version>
+		</dependency>
+		<dependency>
+			<groupId>com.example</groupId>
+			<artifactId>springboot</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
